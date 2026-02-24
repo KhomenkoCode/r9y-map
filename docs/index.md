@@ -184,7 +184,7 @@ type: post
 - [TODO_Lists](TODO_Lists.md)
 - [Waterfall_Projects_PMO](Waterfall_Projects_PMO.md)
 - [SMART_Goals](SMART_Goals.md)
-- [Goals_->_Objectives_OKRs_](Goals_->_Objectives_OKRs_.md)
+- [Goals_->_Objectives_OKRs_](Goals_Objectives_OKRs_.md)
 - [Architecture_Reviews](Architecture_Reviews.md)
 - [High_Performing_Staff_Promotion_and_Hiring_](High_Performing_Staff_Promotion_and_Hiring_.md)
 - [Reactive_Risk_Analysis](Reactive_Risk_Analysis.md)
