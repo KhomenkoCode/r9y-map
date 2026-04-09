@@ -34,7 +34,7 @@ This kind of protection is effective for small to medium threats, but not for la
 
 **Examples:**
 
-The user request path should look like something this (for AWS stack):
+The user request path should look something like this (for AWS stack):
 User → Cloudflare → CloudFront → AWS WAF  → AWS Shield Advanced → LB (L7) → App
 
 
