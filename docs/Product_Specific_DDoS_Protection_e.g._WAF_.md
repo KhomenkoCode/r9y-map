@@ -32,25 +32,20 @@
 - **Description:** Global Anycast CDN with Automatic always-on L3/L4 volumetric attack mitigation (no manual activation needed).
 
 
-**2. Amazon CloudFront:**
-
-- [Website](https://aws.amazon.com/cloudfront/)
-- **Description:** CDN. Caches static content, reduces load on origin servers. Also provide basic filtering and WAF capabilities.
-
-**3. Google Cloud Armor:**
+**2. Google Cloud Armor:**
 
 - [Website](https://cloud.google.com/security/products/armor)
 - **Description:** A web application firewall (WAF) and DDoS protection service built into Google Cloud’s global load balancing infrastructure.
 
 
-**4. Nginx:**
-
-- [Website](https://nginx.org/)
-- **Description:** a high-performance software used as a web server, reverse proxy, load balancer, and HTTP cache. Have built-in rate limiting, IP blacklisting / whitelisting capabilities.
-
-**5. AWS Web Application Firewall:**
+**3. AWS Web Application Firewall:**
 
 - [Website](https://aws.amazon.com/waf/)
+- **Description:** A web application firewall (WAF) that provides basic filtering and WAF capabilities.
+
+**4. Microsoft Azure Web Application Firewall:**
+
+- [Website](https://azure.microsoft.com/en-us/products/web-application-firewall)
 - **Description:** A web application firewall (WAF) that provides basic filtering and WAF capabilities.
 
 
