@@ -111,6 +111,7 @@ Before conducting Vanilla DDoS Protection, it is essential to have the following
 
 After conducting Vanilla DDoS Protection, the next steps typically involve implementing Proactive DDoS countermeasures
 
-By following these steps, teams can build on the results of their Proactive Risk and Scaling Analysis to ensure the ongoing reliability, scalability, and resilience of their systems and applications.---
+By following these steps, teams can build on the results of their Proactive Risk and Scaling Analysis to ensure the ongoing reliability, scalability, and resilience of their systems and applications.
+---
 type: post
 ---
